@@ -15,4 +15,6 @@ These are inspirations:
 
 https://biorob.epfl.ch/cheetah
 
+http://news.mit.edu/2014/mit-cheetah-robot-runs-jumps-0915
+
 Everyone is invited to contribute.
