@@ -19,4 +19,6 @@ https://biorob.epfl.ch/cheetah
 
 http://news.mit.edu/2014/mit-cheetah-robot-runs-jumps-0915
 
+https://www.youtube.com/watch?v=oYSkWIvlyp8
+
 Everyone is invited to contribute.
