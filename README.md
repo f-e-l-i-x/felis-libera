@@ -11,6 +11,8 @@ http://borntoleave.github.io/resource/RasPiCat.gif
 
 http://borntoleave.github.io/resource/RasPiCat_Old.gif
 
+https://www.hackster.io/petoi/opencat-845129
+
 or it may not, we will see.
 
 These are inspirations:
