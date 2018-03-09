@@ -5,6 +5,8 @@ I am trying to build a cat-robot, it is all going to be open source.
 
 It may look a little bit like this, when it is finished:
 
+https://www.youtube.com/watch?v=iGEdF5QsDB8
+
 http://borntoleave.github.io/resource/RasPiCat.gif
 
 http://borntoleave.github.io/resource/RasPiCat_Old.gif
