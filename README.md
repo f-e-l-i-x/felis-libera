@@ -26,3 +26,6 @@ https://www.youtube.com/watch?v=oYSkWIvlyp8
 http://unitech-hobby.com/blog-category-32.html
 
 Everyone is invited to contribute.
+
+
+First, I am going to design the right hind leg, going through a few iterations. The sketchup files and .dae are in the repository.
